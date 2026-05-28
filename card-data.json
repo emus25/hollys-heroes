@@ -1,0 +1,132 @@
+{
+  "version": 2,
+  "exportedAt": "2026-05-28T19:15:54.710Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Holly's ",
+      "lname": "Heroes",
+      "pronouns": null,
+      "name": null,
+      "title": "Our mission is to bring happiness, fun, and joy to children and families affected by cancer 🦋",
+      "biz": null,
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "",
+      "city": "",
+      "state": "",
+      "postal": "",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/GtrM6zgY/holly-(2).png",
+      "shareImg": "https://i.postimg.cc/GtrM6zgY/holly-(2).png",
+      "bookMarkImg": "https://i.postimg.cc/GtrM6zgY/holly-(2).png",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#332f8f",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#332f8f",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#FFFFFF",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#E5E7EB",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": null,
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "call",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "+447960952162",
+        "label": "Your Phone Number"
+      },
+      {
+        "name": "email",
+        "href": "mailto:",
+        "placeholder": "info@example.com",
+        "value": "info@hollysheroes.co.uk",
+        "label": "Your Email Address"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://www.hollysheroes.co.uk/",
+        "label": "Your Website URL"
+      }
+    ],
+    "secondaryActions": [
+      {
+        "name": "instagram",
+        "placeholder": "https://instagram.com/UserName",
+        "value": "https://www.instagram.com/hollys_heroes?igsh=MXJlNGx4ZzY1ZmN0Zg==",
+        "color": "#405de6",
+        "label": "Your Instagram URL"
+      },
+      {
+        "name": "facebook",
+        "placeholder": "https://facebook.com/UserName",
+        "value": "https://www.facebook.com/p/Hollys-Heroes-61573117332190/",
+        "color": "#1877f2",
+        "label": "Your Facebook URL"
+      }
+    ],
+    "featured": [
+      {
+        "title": "",
+        "content": [
+          {
+            "label": "Donate Now!",
+            "link": null,
+            "contentType": "customButton"
+          }
+        ]
+      }
+    ]
+  }
+}
